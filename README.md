@@ -1,5 +1,5 @@
 
-# PhishLens — URL tabanlı phishing tespit aracı (Makine Öğrenimi)
+# PhishLens — URL tabanlı phishing tespit aracı
 
 Sadece **URL metninden** öznitelik çıkarır, küçük bir modelle **phishing** riski tahmini yapar.
 CLI ve mini API komutları mevcuttur.
